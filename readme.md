@@ -23,5 +23,4 @@ An end-to-end **Agentic AI** pipeline that ingests a YouTube transcript, auto-ge
 
 ---
 
-## Repository Structure
 
